@@ -107,12 +107,9 @@
           "role": "Software Engineer (Android)",
           "period": "March 2023 - March 2025 | Lahore, Pakistan",
           "achievements": [
-            "Designed and developed software applications per project specifications.",
-            "Wrote clean, efficient, and well-documented code.",
             "Performed unit testing and debugging to ensure software quality.",
             "Implemented best practices for code review and version control.",
             "Collaborated with engineers to architect and maintain software systems.",
-            "Stayed updated with emerging technologies and industry trends.",
             "Troubleshot technical issues and provided timely solutions.",
             "Contributed to project planning and estimation."
           ]
@@ -124,12 +121,9 @@
           "achievements": [
             "Develop and maintain high-performance Android applications using Kotlin and Jetpack Compose.",
             "Collaborate with cross-functional teams to define, design, and ship new features.",
-            "Conduct code reviews and provide constructive feedback to improve code quality.",
-            "Stay updated with the latest Android trends and integrate them into projects.",
             "Optimize application performance through profiling and refactoring techniques.",
             "Mentor junior developers and lead technical discussions within the team.",
-            "Integrate third-party APIs and services to extend application capabilities.",
-            "Analyze user data to inform feature development and improve app engagement."
+            "Integrate third-party APIs and services to extend application capabilities."
           ]
         },
         {
